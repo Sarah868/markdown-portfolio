@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Coffee
+2. Donuts
+3. Sushi
+4. Spicy foods
